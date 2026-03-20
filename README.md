@@ -41,4 +41,4 @@ Desenvolvido por **Walisson Patrick Helmer**
 
 ---
 
-💡 Projeto criado como parte do desenvolvimento de portfólio profissional em Front-End e Web Development.
+💡 Projeto criado como parte do desenvolvimento de portfólio profissional em Front-End e Web Development..
